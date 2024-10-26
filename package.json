@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/deugene/react-gradient-path/issues"
   },
-  "homepage": "https://github.com/deugene/gradient-path/",
+  "homepage": "https://github.com/deugene/react-gradient-path/",
   "description": "A small library to have any gradient follow along any SVG path written in TypeScript and wrapped in a React component.",
   "dependencies": {
     "svg-path-properties": "^1.3.0",
